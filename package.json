@@ -1,0 +1,11 @@
+{
+  "name": "bos-backend-codemodule",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eduardo-bier-bos/bos-backend-codemodule"
+  },
+  "author": "Carlos Eduardo Bier"
+}
